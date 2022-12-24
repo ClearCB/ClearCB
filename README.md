@@ -16,7 +16,7 @@ I am studying Web Applications Development in [CIFP Francesc de Borja Moll](http
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/clearcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clearcb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abel-casas-garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abel casas garcia" height="30" width="40" /></a>
+<a href="linkedin.com/in/abel-casas-garcía-59a58b25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abel casas garcia" height="30" width="40" /></a>
 </p>
 
 
