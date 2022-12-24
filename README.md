@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I am ClearCB.
+
+![Foto de una habtiación](./img/habitacion.jpg)
+
+My name is Abel Casas.
+
+I am studying Web Applications Development in [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/) since the 23rd of september. 
+
+
 
 <!--
 **ClearCB/ClearCB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
