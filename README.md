@@ -8,7 +8,7 @@ My name is Abel Casas.
 
 I am studying Web Applications Development in [CIFP Francesc de Borja Moll](https://www.cifpfbmoll.eu/) and I am trying to become a great programmer.
 
-### What am I learning?
+## What am I learning?
 
 I am taking a DUAL course which consist in learning web development while working on a company, the following technologies are the one that this course is focused on:
 
@@ -18,9 +18,15 @@ I am taking a DUAL course which consist in learning web development while workin
   </a>
 </div>
 
+## I am interested in
+
+* Good programming practices and clean code.
+* SOLID principles.
+* TDD (test-driven-development) and DDD (domain-driven-design)
+
 <h3 align="left">Connect with me:</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=twitter,linkedin" />
   </a>
