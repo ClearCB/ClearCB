@@ -14,7 +14,7 @@ I am taking a DUAL course which consist in learning web development while workin
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,maven,mongodb,mysql,python,java,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,maven,mongodb,mysql,python,java,bash,md,vscode" />
   </a>
 </div>
 
