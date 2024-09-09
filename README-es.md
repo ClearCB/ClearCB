@@ -1,62 +1,61 @@
-# Abel Casas - Developer (EN)
+# Abel Casas - Desarrollador (ES)
 
 ![bg-image](./img/habitacion.jpg)
 
-Hello! I’m **Abel Casas**, a web developer with a passion for **clean**, **scalable**, and **high-quality** code. I strive to follow **best practices** and am constantly learning to improve and become a great programmer.
+¡Hola! Soy **Abel Casas**, desarrollador web con pasión por el **código limpio**, **escalable** y de **calidad**. Me esfuerzo por seguir **buenas prácticas** y estoy en constante aprendizaje para mejorar y convertirme en un gran programador.
 
-## Table of Contents
+## Índice
 
-IMPORTANT! This repository is constantly changing. There may be information pending updates. Thank you and sorry for any inconvenience.
+¡IMPORTANTE! Este repositorio está en constante cambio. Y puede haber información que esté pendiente de ser actualizada. Gracias y perdón.
 
-- [Abel Casas - Developer (EN)](#abel-casas---developer-en)
-  - [Table of Contents](#table-of-contents)
-  - [A Little About Me](#a-little-about-me)
-  - [Contact](#contact)
-  - [Projects](#projects)
-  - [WIP - Current](#wip---current)
-  - [Future](#future)
-  - [Technologies I've Worked With](#technologies-ive-worked-with)
-  - [Technologies I Currently Use](#technologies-i-currently-use)
-  - [Technologies I Want to Learn](#technologies-i-want-to-learn)
-  - [Additional Information](#additional-information)
-  - [Farewell](#farewell)
+- [Abel Casas - Desarrollador](#abel-casas---desarrollador)
+  - [Índice](#índice)
+  - [Un poco sobre mí](#un-poco-sobre-mí)
+  - [Contacto](#contacto)
+  - [Proyectos](#proyectos)
+  - [WIP - Actualidad](#wip---actualidad)
+  - [Futuro](#futuro)
+  - [Tecnologías con las que he trabajado](#tecnologías-con-las-que-he-trabajado)
+  - [Tecnologías que uso actualmente](#tecnologías-que-uso-actualmente)
+  - [Tecnologías que quiero aprender](#tecnologías-que-quiero-aprender)
+  - [Información adicional](#información-adicional)
 
-## A Little About Me
+## Un poco sobre mí
 
-I currently work as a **Full Stack Developer**, which has given me a **broad vision** of the entire development environment, but my goal is to specialize in **backend**. While I enjoy working full stack, I feel that backend is where I want to focus long-term.
+Actualmente trabajo como **Full Stack Developer**, lo que me ha dado una **visión amplia** de todo el entorno de desarrollo, pero mi objetivo es especializarme en **backend**. Aunque disfruto trabajando en el desarrollo full stack, siento que el backend es donde quiero focalizarme a largo plazo.
 
 ![SOLID Badge](https://img.shields.io/badge/SOLID-green)
 ![KISS Badge](https://img.shields.io/badge/KISS-green)
 ![DRY Badge](https://img.shields.io/badge/DRY-green)
 
-## Contact
+## Contacto
 
 [![PORTFOLIO Badge](https://img.shields.io/badge/PORTFOLIO-white?style=flat)](mailto:abelcasas@example.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abel-casas)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](mailto:abelcasas@example.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:abelcasas@example.com)
 
-## Projects
+## Proyectos
 
-- [![GitHub Badge](https://img.shields.io/badge/RENTABIKE-repo-green)](https://github.com/abelcasas/rentabike): Bike rental system.
-- [![GitHub Badge](https://img.shields.io/badge/IMINAPP-repo-white)](https://github.com/abelcasas/rentabike): Bike rental system.
-- [![GitHub Badge](https://img.shields.io/badge/PORTFOLIO-repo-gray)](https://github.com/abelcasas/rentabike): Bike rental system.
-- [![GitHub Badge](https://img.shields.io/badge/FLASKAPP-repo-orange)](https://github.com/abelcasas/rentabike): Bike rental system.
+- [![GitHub Badge](https://img.shields.io/badge/RENTABIKE-repo-green)](https://github.com/abelcasas/rentabike): Sistema de alquiler de bicicletas.
+- [![GitHub Badge](https://img.shields.io/badge/IMINAPP-repo-white)](https://github.com/abelcasas/rentabike): Sistema de alquiler de bicicletas.
+- [![GitHub Badge](https://img.shields.io/badge/PORTFOLIO-repo-gray)](https://github.com/abelcasas/rentabike): Sistema de alquiler de bicicletas.
+- [![GitHub Badge](https://img.shields.io/badge/FLASKAPP-repo-orange)](https://github.com/abelcasas/rentabike): Sistema de alquiler de bicicletas.
 
-## WIP - Current
+## WIP - Actualidad
 
-- **Developing my portfolio** and main page.
-- **Career + Learning**: Continuously improving skills.
-- **Small projects**: Developing small tools and experiments.
-- **Learning new things**: Always exploring new technologies and methodologies.
+- **Desarrollo de mi portafolio** y página principal.
+- **Carrera + Aprendizaje**: Continuamente mejorando habilidades.
+- **Proyectos pequeños**: Desarrollando pequeñas herramientas y experimentos.
+- **Aprender cosas nuevas**: Siempre explorando nuevas tecnologías y metodologías.
 
-## Future
+## Futuro
 
-In my professional development journey, I’m focusing on mastering **Java** and have an interest in learning **Go**, **Rust**, and **C**.
+En mi camino de desarrollo profesional, me estoy enfocando en masterizar **Java** y tengo interés en aprender **Go**, **Rust**, y **C**.
 
-Additionally, I’d like to dive into **Web3 development**, as blockchain technology is exciting.
+Además, me gustaría adentrarme en el desarrollo de **Web3**, ya que la tecnología blockchain es apasionante.
 
-## Technologies I've Worked With
+## Tecnologías con las que he trabajado
 
 - **Backend**:  
 
@@ -71,13 +70,13 @@ Additionally, I’d like to dive into **Web3 development**, as blockchain techno
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)  
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)  
 
-- **DevOps and Tools**:  
+- **DevOps y Herramientas**:  
   
   ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)  
   ![GitLab Badge](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)  
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)  
 
-## Technologies I Currently Use
+## Tecnologías que uso actualmente
 
 - **Backend**:  
   
@@ -93,7 +92,7 @@ Additionally, I’d like to dive into **Web3 development**, as blockchain techno
   ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)  
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)  
 
-- **DevOps and Tools**:
+- **DevOps y Herramientas**:
   
   ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)  
   ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
@@ -103,7 +102,7 @@ Additionally, I’d like to dive into **Web3 development**, as blockchain techno
 
 ---
 
-## Technologies I Want to Learn
+## Tecnologías que quiero aprender
 
 ![AWS Badge](https://img.shields.io/badge/AWS-orange)  
 ![AZURE Badge](https://img.shields.io/badge/AZURE-blue)  
@@ -118,12 +117,19 @@ Additionally, I’d like to dive into **Web3 development**, as blockchain techno
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)  
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
 
-## Additional Information
+## Información adicional
 
-[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)](https://www.codewars.com)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)](https://github.com/abelcasas/rentabike)
 
-## Farewell
+---
 
-Always ready to **learn**, **improve**, and contribute high-quality code to projects that excite me.
+Siempre dispuesto a **aprender**, **mejorar** y a contribuir con código de calidad en proyectos que me apasionen.
 
-Thank you for visiting my profile! I appreciate the time you’ve taken to learn more about me and my projects. I’m always open to learning, collaborating, and sharing ideas, so feel free to reach out if you have any questions or proposals. I hope we cross paths again soon!
+¡Gracias por visitar mi perfil!
+Agradezco el tiempo que has invertido en conocer más sobre mí y mis proyectos. Siempre estoy abierto a aprender, colaborar y compartir ideas, así que no dudes en contactarme si tienes alguna pregunta o propuesta. ¡Espero que volvamos a cruzarnos pronto!
+
+<!-- 3
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clearcb&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+
+6
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clearcb&repo=imin-app)](https://github.com/clearcb/github-readme-stats) -->
