@@ -1,25 +1,26 @@
-# Abel Casas - Developer (EN)
 
-![bg-image](./img/habitacion.jpg)
+<p align="center" width="300">
+   <img align="center" width="200" src="./img/me.png" />
+   <h3 align="center">Hello! I’m Abel Casas</h3>
+</p>
 
-Hello! I’m **Abel Casas**, a web developer with a passion for **clean**, **scalable**, and **high-quality** code. I strive to follow **best practices** and am constantly learning to improve and become a great programmer.
+A web developer with a passion for **clean**, **scalable**, and **high-quality** code. I strive to follow **best practices** and am constantly learning to improve and become a great programmer.
 
 ## Table of Contents
 
 IMPORTANT! This repository is constantly changing. There may be information pending updates. Thank you and sorry for any inconvenience.
 
-- [Abel Casas - Developer (EN)](#abel-casas---developer-en)
-  - [Table of Contents](#table-of-contents)
-  - [A Little About Me](#a-little-about-me)
-  - [Contact](#contact)
-  - [Projects](#projects)
-  - [WIP - Current](#wip---current)
-  - [Future](#future)
-  - [Technologies I've Worked With](#technologies-ive-worked-with)
-  - [Technologies I Currently Use](#technologies-i-currently-use)
-  - [Technologies I Want to Learn](#technologies-i-want-to-learn)
-  - [Additional Information](#additional-information)
-  - [Farewell](#farewell)
+- [Table of Contents](#table-of-contents)
+- [A Little About Me](#a-little-about-me)
+- [Contact](#contact)
+- [Projects](#projects)
+- [WIP - Current](#wip---current)
+- [Future](#future)
+- [Technologies I've Worked With](#technologies-ive-worked-with)
+- [Technologies I Currently Use](#technologies-i-currently-use)
+- [Technologies I Want to Learn](#technologies-i-want-to-learn)
+- [Additional Information](#additional-information)
+- [Farewell](#farewell)
 
 ## A Little About Me
 
@@ -31,24 +32,25 @@ I currently work as a **Full Stack Developer**, which has given me a **broad vis
 
 ## Contact
 
-[![PORTFOLIO Badge](https://img.shields.io/badge/PORTFOLIO-white?style=flat)](mailto:abelcasas@example.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/abel-casas)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)](mailto:abelcasas@example.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:abelcasas@example.com)
+<!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=flat)](mailto:abelcasasccb@example.com) -->
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/in/acasasg)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?lowgo=github&logoColor=fff&style=flat)](https://github.com/ClearCB)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:abelcasasccb@gmail.com)
 
 ## Projects
 
-- [![GitHub Badge](https://img.shields.io/badge/RENTABIKE-repo-green)](https://github.com/abelcasas/rentabike): Bike rental system.
-- [![GitHub Badge](https://img.shields.io/badge/IMINAPP-repo-white)](https://github.com/abelcasas/rentabike): Bike rental system.
-- [![GitHub Badge](https://img.shields.io/badge/PORTFOLIO-repo-gray)](https://github.com/abelcasas/rentabike): Bike rental system.
-- [![GitHub Badge](https://img.shields.io/badge/FLASKAPP-repo-orange)](https://github.com/abelcasas/rentabike): Bike rental system.
+- [![GitHub Badge](https://img.shields.io/badge/Angular-ImInApp-white)](https://github.com/ClearCB/imin-app): front app with map to manage events of people with geolocation.
+- [![GitHub Badge](https://img.shields.io/badge/Java-ImInApi-yellow)](https://github.com/ClearCB/imin-app-api): securized api to consume for events app.
+- [![GitHub Badge](https://img.shields.io/badge/Python-RentatorBike-green)](https://github.com/ClearCB/rentator-bike): simple bike static web page list.
+- [![GitHub Badge](https://img.shields.io/badge/Python-OllivanderFlaskApp-purple)](https://github.com/ClearCB/ollivanders-flask): simple app to manage 'ollivanders' shop.
+- [![GitHub Badge](https://img.shields.io/badge/JS-FormValidator-orange)](https://github.com/ClearCB/custom-form-validator): custom vanilla JS form validator with custom message rules.
 
 ## WIP - Current
 
 - **Developing my portfolio** and main page.
 - **Career + Learning**: Continuously improving skills.
 - **Small projects**: Developing small tools and experiments.
-- **Learning new things**: Always exploring new technologies and methodologies.
+- **Learning new things**: Always exploring new technologies and methodologies. Now working with GO and Astro.
 
 ## Future
 
@@ -92,37 +94,32 @@ Additionally, I’d like to dive into **Web3 development**, as blockchain techno
   
   ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=flat)  
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)  
+  ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
 
 - **DevOps and Tools**:
   
   ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)  
   ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clearcb&hide=css,html,scss&layout=compact&theme=algolia)
-
----
-
 ## Technologies I Want to Learn
 
-![AWS Badge](https://img.shields.io/badge/AWS-orange)  
-![AZURE Badge](https://img.shields.io/badge/AZURE-blue)  
-![Blockchain.com Badge](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=flat)  
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)  
-![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat)  
-![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)  
-![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)  
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=flat)  
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)  
-![IA Badge](https://img.shields.io/badge/IA-develop-blue)  
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)  
-![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
+- ![AWS Badge](https://img.shields.io/badge/AWS-orange)  
+- ![AZURE Badge](https://img.shields.io/badge/AZURE-blue)  
+- ![Blockchain.com Badge](https://img.shields.io/badge/Blockchain.com-121D33?-logo=blockchaindotcom&logoColor=fff&style=flat)  
+- ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&-style=flat)  
+- ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&-logoColor=fff&style=flat)  
+- ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&-style=flat)  
+- ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&-logoColor=fff&style=flat)  
+- ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?-logo=kubernetes&logoColor=fff&style=flat)  
+- ![IA Badge](https://img.shields.io/badge/IA-develop-blue)  
+- ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&-style=flat)  
+- ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=flat)
 
 ## Additional Information
 
-[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)](https://www.codewars.com)
+- [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff&style=flat)](https://www.codewars.com/users/ClearCB)
 
-## Farewell
+## Farewell  
 
 Always ready to **learn**, **improve**, and contribute high-quality code to projects that excite me.
 
