@@ -35,15 +35,16 @@ I currently work as a **Full Stack Developer**, which has given me a **broad vis
 <!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=flat)](mailto:acasasdev@example.com) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/in/acasasg)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?lowgo=github&logoColor=fff&style=flat)](https://github.com/ClearCB)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:acasasdev@gmail.com)
+<a href="mailto:acasasdev@gmail.com">
+![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)</a>
 
 ## Projects
 
-- [![GitHub Badge](https://img.shields.io/badge/Angular-ImInApp-white)](https://github.com/ClearCB/imin-app): front app with map to manage events of people with geolocation.
-- [![GitHub Badge](https://img.shields.io/badge/Java-ImInApi-yellow)](https://github.com/ClearCB/imin-app-api): securized api to consume for events app.
-- [![GitHub Badge](https://img.shields.io/badge/Python-RentatorBike-green)](https://github.com/ClearCB/rentator-bike): simple bike static web page list.
-- [![GitHub Badge](https://img.shields.io/badge/Python-OllivanderFlaskApp-purple)](https://github.com/ClearCB/ollivanders-flask): simple app to manage 'ollivanders' shop.
-- [![GitHub Badge](https://img.shields.io/badge/JS-FormValidator-orange)](https://github.com/ClearCB/custom-form-validator): custom vanilla JS form validator with custom message rules.
+- [![IminApp Badge](https://img.shields.io/badge/Angular-ImInApp-white)](https://github.com/ClearCB/imin-app): front app with map to manage events of people with geolocation.
+- [![IminAppApi Badge](https://img.shields.io/badge/Java-ImInApi-yellow)](https://github.com/ClearCB/imin-app-api): securized api to consume for events app.
+- [![RentatorBike Badge](https://img.shields.io/badge/Python-RentatorBike-green)](https://github.com/ClearCB/rentator-bike): simple bike static web page list.
+- [![OllivanderFlask Badge](https://img.shields.io/badge/Python-OllivanderFlaskApp-purple)](https://github.com/ClearCB/ollivanders-flask): simple app to manage 'ollivanders' shop.
+- [![FormValidator Badge](https://img.shields.io/badge/JS-FormValidator-orange)](https://github.com/ClearCB/custom-form-validator): custom vanilla JS form validator with custom message rules.
 
 ## WIP - Current
 

@@ -34,7 +34,8 @@ Actualmente trabajo como **Desarrollador Full Stack**, lo que me ha dado una **v
 <!-- [![Portfolio Badge](https://img.shields.io/badge/Portfolio-white?style=flat)](mailto:acasasdev@example.com) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](www.linkedin.com/in/acasasg)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?lowgo=github&logoColor=fff&style=flat)](https://github.com/ClearCB)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:acasasdev@gmail.com)
+<a href="mailto:acasasdev@gmail.com">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)]</a>
 
 ## Proyectos
 
